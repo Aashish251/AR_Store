@@ -1,0 +1,9 @@
+#root {
+  z-index: -1;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(246, 250, 254, 1) 5%,
+    rgba(243, 249, 255, 1) 100%
+  );
+}
